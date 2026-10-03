@@ -89,6 +89,8 @@ def view_applications():
 # Call the save_application function
 # This starts the program and asks the user for information
 # Add a new application
+
+
 save_application()
 
 # Display all saved applications
